@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-213.6777.52">
+    <data-source name="custmer-service/Hibernate" uuid="7f1b14a5-0e34-47c7-9fa4-d0eb825030ad">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Billing-service/Hibernate" uuid="2e6f0d53-6183-46ad-a7dc-d5d1f73229f0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="product-service/Hibernate" uuid="fbe808ff-a2d9-4177-8511-f9c241330ce5">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
